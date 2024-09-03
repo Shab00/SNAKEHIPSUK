@@ -66,4 +66,4 @@ Contains the list of required packages for running the Jupyter Notebook.
 
 The model demonstrates strong performance overall, with high accuracy and good precision and recall for both classes. The slight difference in precision and recall between the classes suggests that the model might be slightly better at identifying "popular" videos than "not popular" videos.
 ```
-This README.md provides an overview of the YouTube analytics project for the FLAGRANT2 channel, detailing the content and purpose of each file in the repository.
+This README.md provides an overview of the YouTube analytics project for the SNAKEHIPSUK channel, detailing the content and purpose of each file in the repository.
