@@ -43,7 +43,7 @@ This code defines a function `get_model` that creates and compiles a neural netw
 ## requirements.txt
 Contains the list of required packages for running the Jupyter Notebook.
 
-#Learning Experience Using TensorFlow
+# Learning Experience Using TensorFlow
 
 Although the dataset for this project consists of only a small number of videos from the SNAKEHIPSUK channel, I chose to implement a neural network model using TensorFlow as part of a learning experience. TensorFlow is a powerful library often used for more complex, large-scale machine learning problems. However, in this case, my goal was to gain hands-on experience with TensorFlow's architecture, model building, and performance evaluation, even though a simpler algorithm might have sufficed for this dataset.
 
