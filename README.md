@@ -2,7 +2,7 @@
 
 ## snakeHipsAnalytics.ipynb
 ## snakeHipsAnalyticsPLayers.ipynb
-This Jupyter Notebook contains a comprehensive analysis of Flagrant2 videos, including data preprocessing, feature selection, normalization, and various visualizations to gain insights into the dataset.
+This Jupyter Notebook contains a comprehensive analysis of SNAKEHIPS videos, including data preprocessing, feature selection, normalization, and various visualizations to gain insights into the dataset.
 
 ### Table of Contents
 1. Introduction
@@ -42,6 +42,12 @@ This code defines a function `get_model` that creates and compiles a neural netw
 
 ## requirements.txt
 Contains the list of required packages for running the Jupyter Notebook.
+
+#Learning Experience Using TensorFlow
+
+Although the dataset for this project consists of only a small number of videos from the SNAKEHIPSUK channel, I chose to implement a neural network model using TensorFlow as part of a learning experience. TensorFlow is a powerful library often used for more complex, large-scale machine learning problems. However, in this case, my goal was to gain hands-on experience with TensorFlow's architecture, model building, and performance evaluation, even though a simpler algorithm might have sufficed for this dataset.
+
+Through this project, I practiced key steps in the machine learning workflow, including data preprocessing, feature engineering, and model evaluation. While the choice of TensorFlow might be considered overkill for a small dataset, it served as an excellent platform to solidify my understanding of neural networks and model training, which can be applied to larger datasets and more complex problems in the future.
 
 # Key Model Performance Metrics
 
